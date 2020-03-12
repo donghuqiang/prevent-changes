@@ -1,6 +1,7 @@
 ## 数据库防篡改
 
 demo采用 SM2 加密算法，对防篡改数据进行备份加密，加密算法是别人的。
+采用mybatisplus AutoGenerator代码生成相关的mapper文件。
 
 防篡改表设计：
 
