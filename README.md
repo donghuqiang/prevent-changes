@@ -17,5 +17,5 @@ t_news_back
 | CREATETIME   | date        | 创建时间             |
 
 防篡改字段在数据库中直接修改后，界面展示：
-
+![image](https://github.com/donghuqiang/prevent-changes/blob/master/%E9%98%B2%E7%AF%A1%E6%94%B9%E6%95%88%E6%9E%9C.jpg)
 
