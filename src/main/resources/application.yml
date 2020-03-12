@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: qr-form
+  profiles:
+    active: dev
+  thymeleaf:
+    cache: false
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd
+  http:
+    encoding:
+      force: true
+      charset: UTF-8
+      enabled: true
+  messages:
+    encoding: UTF-8
+
+banner:
+  charset: UTF-8
+
+server:
+  tomcat:
+    uri-encoding: UTF-8
+
+
+
